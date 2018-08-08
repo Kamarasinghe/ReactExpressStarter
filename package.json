@@ -1,7 +1,7 @@
 {
-  "name": "kavindu_portfolio",
+  "name": "react_express_starter",
   "version": "1.0.0",
-  "description": "Portfolio created used React",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "npm-run-all --parallel start-dev react-dev",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kamarasinghe/Portfolio.git"
+    "url": "git+https://github.com/Kamarasinghe/ReactExpressStarter.git"
   },
   "author": "Kavindu Amarasinghe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kamarasinghe/Portfolio/issues"
+    "url": "https://github.com/Kamarasinghe/ReactExpressStarter/issues"
   },
-  "homepage": "https://github.com/Kamarasinghe/Portfolio#readme",
+  "homepage": "https://github.com/Kamarasinghe/ReactExpressStarter#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
